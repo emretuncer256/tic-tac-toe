@@ -2,6 +2,8 @@
 
 A Python implementation of the classic Tic Tac Toe game with an AI opponent using the Minimax algorithm. The game features a graphical user interface built with Pygame.
 
+![Gameplay](gameplay.png)
+
 ## Features
 
 - Interactive GUI using Pygame
